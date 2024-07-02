@@ -134,7 +134,7 @@ Detailed instruction is available here: https://sdl-hercules-390.github.io/html/
    sudo make install
    
    # Add libherc.so library path to LD_LIBRARY_PATH
-   export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
+   echo 'export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
    source ~/.bashrc
    ```
 
