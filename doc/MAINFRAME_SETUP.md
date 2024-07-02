@@ -179,7 +179,7 @@ cd ..
 ./mvs
 ```
 
-![image-20240702125503394](/Users/zhezhao/Library/Application Support/typora-user-images/image-20240702125503394.png)
+![image-TK4-console](./images/TK4-console.png)
 
 ## Connect via 3270 terminal
 
@@ -197,7 +197,7 @@ brew install x3270
 c3270 192.168.64.4:3270
 ```
 
-![image-20240702125848522](/Users/zhezhao/Library/Application Support/typora-user-images/image-20240702125848522.png![image-20240702130245127](/Users/zhezhao/Library/Application Support/typora-user-images/image-20240702130245127.png)
+![image-c3270_login](./images/c3270_login.png)
 
 Login with the default user (More info about the deafult users, refer to [TK4- user guide](https://wotho.pebble-beach.ch/tk4-/MVS_TK4-_v1.00_Users_Manual.pdf))
 
@@ -208,7 +208,7 @@ password=CUL8TR
 
 Finally, we're in
 
-![image-20240702131633978](/Users/zhezhao/Library/Application Support/typora-user-images/image-20240702131633978.png)
+![image-logged_in](./images/logged_in.png)
 
 ## Run a demo
 
