@@ -52,7 +52,7 @@ ifconfig
 # I prefer to use my iTerm terminal + ssh for better searching / multi-pane visual. 
 # Switch back to OSX iTerm now we should be able to ssh to the vm
 # I'm using my github private key as the public key were loaded form github when bootstraping
-ssh -i github/github ubuntu@192.168.64.4
+ssh -i ~/.ssh/github/github ubuntu@192.168.64.4
 ```
 
 ## Install Hercules
