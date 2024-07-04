@@ -159,6 +159,10 @@ A detailed step to step guilde available here: https://bradrigg456.medium.com/ru
 > Note:
 > The original like to TK4- site is out of func: ~~http://wotho.ethz.ch/tk4-/~~. 
 > **Use the mirror site instead: https://wotho.pebble-beach.ch/tk4-/**
+ 
+> Another Note:
+> Rob Prins is actively working on TK5 and have three releases of the new OS: https://www.prince-webdesign.nl/tk5
+> Doesn't work for me though
 
 ```bash
 # download the pre-built zip of tk4
