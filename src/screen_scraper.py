@@ -8,7 +8,7 @@ from py3270 import Emulator
 delayt = 1    # In sec, slowing down to be able to see the screen update
 mylogin = 'HERC04'
 mypass = 'PASS4U'
-myhost = '192.168.64.5:3270'
+myhost = '127.0.0.1:53270'
 screenrows = []
 
 # use x3270 so you can see what is going on

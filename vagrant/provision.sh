@@ -34,6 +34,8 @@ git clone https://github.com/SDL-Hercules-390/hyperion.git
 mkdir -p "${HERCULES_EXT_PKG}"
 pushd "${HERCULES_EXT_PKG}"
 
+# Increase buffer size for big repo
+git config --global http.postBuffer 104857600
 # clone the repository
 git clone https://github.com/SDL-Hercules-390/gists.git
 pushd "${HERCULES_EXT_PKG}/gists/"
