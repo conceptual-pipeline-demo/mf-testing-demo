@@ -40,3 +40,5 @@ out/
 **/owasp/
 
 **/.DS_Store
+
+**/.vagrant
